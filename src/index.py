@@ -53,7 +53,6 @@ def main():
     print(f"saatiin {saatiin}")
     print(f"Mehuvarasto: {mehua}")
 
-    def peruna
 
 if __name__ == "__main__":
     main()
